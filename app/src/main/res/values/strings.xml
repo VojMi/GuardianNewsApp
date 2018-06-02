@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guardian News App</string>
+    <string name="empty_view_message">No news available.</string>
+    <string name="no_internet_connection">No internet connection!</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">Story Settings</string>
+    <string name="keyword_label">Text search</string>
+    <string name="keyword">keyword</string>
+    <string name="keyword_default">android</string>
+    <string name="order_by_label">Order By</string>
+    <string name="order_by">order_by</string>
+    <string name="order_by_default">settings_order_by_relevance_value</string>
+    <string name="order_by_relevance_label">Relevance</string>
+    <string name="order_by_relevance_value">relevance</string>
+    <string name="order_by_newest_label">Newest</string>
+    <string name="order_by_newest_value">newest</string>
+</resources>
